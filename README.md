@@ -2,7 +2,7 @@
 
 __`Digital Craftsman (Developer/Designer)`__
 
-I'm a passionate developer with a keen interest in both web development and machine learning. I love crafting elegant solutions to complex problems and exploring the intersection of technology and creativity. Being an Undergraduate in Computer Science, I am dedicated to continuous learning and improvement in my craft. All projects I've created were built from the ground up, from planning and designing all the way to solving real world problems.
+I'm a passionate developer with a keen interest in both web development and machine learning. I love crafting elegant solutions to complex problems and exploring the intersection of technology and creativity. Being an Undergraduate in Computer Science, I am dedicated to continuous learning and improvement in my craft. I've built all my projects from scratch, handling everything from initial planning and design to tackling real-world issues.
 
 <p align="left">
       <a href="https://github.com/ammar-jesliy?tab=followers">
@@ -20,6 +20,7 @@ ___
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
