@@ -2,7 +2,7 @@
 
 __`Digital Craftsman (Developer/Designer)`__
 
-I'm a passionate developer with a keen interest in both web development and machine learning. I love crafting elegant solutions to complex problems and exploring the intersection of technology and creativity. Being an Undergraduate in Computer Science, I am dedicated to continuous learning and improvement in my craft. I've built all my projects from scratch, handling everything from initial planning and design to tackling real-world issues.
+I'm a passionate developer with a keen interest in both frontend development and machine learning. I love crafting elegant solutions to complex problems and exploring the intersection of technology and creativity. Being an Undergraduate in Computer Science, I am dedicated to continuous learning and improvement in my craft. I've built all my projects from scratch, handling everything from initial planning and design to tackling real-world issues.
 
 <p align="left">
       <a href="https://github.com/ammar-jesliy?tab=followers">
